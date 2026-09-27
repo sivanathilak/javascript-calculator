@@ -41,8 +41,8 @@ While building this project, I practiced:
 
 ## Screenshot
 
-Screenshot coming soon.
+![JavaScript Calculator Screenshot](calculator-screenshot.png)
 
 ## Live Demo
 
-Live demo coming soon.
+[View the Live Calculator](https://sivanathilak.github.io/javascript-calculator/)
